@@ -1,0 +1,66 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+}
+
+.messageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.box1 {
+  width: 70px;
+  height: 20px;
+  background-color: #0b69ff;
+  padding: 20px;
+  padding-right: 100px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bar2 {
+  width: 70px;
+  height: 20px;
+  background-color: #2dca73;
+  padding: 20px;
+  padding-right: 100px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
+.bar3 {
+  width: 70px;
+  height: 20px;
+  background-color: #ffb800;
+  padding: 20px;
+  padding-right: 100px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
+.bar4 {
+  width: 70px;
+  height: 20px;
+  background-color: #ff0b37;
+  padding: 20px;
+  padding-right: 100px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
+
+.img {
+}
